@@ -1,7 +1,3 @@
-/*--------------------------------------------------*\
-|  UDP (Default DNS) amplification against subnets.  |
-|  Adapted by @Lupoii (Telegram) - 2021.             |
-\*--------------------------------------------------*/
 //    gcc -pthread dns.c -o dns -lm   // 
 #include <arpa/inet.h>
 #include <netinet/ip.h>
